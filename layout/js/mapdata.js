@@ -219,7 +219,7 @@ var simplemaps_countrymap_mapdata={
       color: "#fff",
       state_description:"Hello",
       url_new_tab: 'yes',
-      state_url: "https://dev.orangecodingacademy.com/codingacademy/create",
+      state_url: "https://amman.orangecodingacademy.com",
       lat: "31.95",
       lng: "35.933333",
 
@@ -247,6 +247,7 @@ var simplemaps_countrymap_mapdata={
       parent_id: "JOR854",
       x: 193.6,
       y: 222.8,
+      state_url: "https://irbid.orangecodingacademy.com",
       color: "#fff"
     },
     "6": {
@@ -268,6 +269,7 @@ var simplemaps_countrymap_mapdata={
       parent_id: "JOR857",
       x: 166.6,
       y: 368.1,
+      state_url: "https://balqa.orangecodingacademy.com",
       color: "#fff"
     },
     "9": {
@@ -289,6 +291,7 @@ var simplemaps_countrymap_mapdata={
       parent_id: "JOR860",
       x: 485.9,
       y: 454.2,
+      state_url: "https://zarqa.orangecodingacademy.com",
       color: "#fff"
     }
   },
