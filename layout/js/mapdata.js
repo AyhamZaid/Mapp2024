@@ -80,7 +80,7 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "Aqaba Academy",
-      url: "https://dev.orangecodingacademy.com/codingacademy/create",
+      url: "https://aqaba.orangecodingacademy.com",
       inactive: "no"
     },
     JOR850: {
@@ -201,6 +201,7 @@ var simplemaps_countrymap_mapdata={
       parent_id: "JOR849",
       x: 87.6,
       y: 1016.9,
+      state_url: "https://aqaba.orangecodingacademy.com",
       color: "#fff"
       
     },
