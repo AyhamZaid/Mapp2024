@@ -159,13 +159,13 @@ var simplemaps_countrymap_mapdata={
     }
   },
   locations: {
-    "0": {
-      // lat: "31.75",
-      // lng: "35.919",
-      // name: "Amman",
-      // description: "Amman Academy",
-      // color: "#4f2601"
-    },
+  // "0": {
+    //   lat: "31.75",
+    //   lng: "35.919",
+    //   name: "Amman",
+    //   description: "Amman Academy",
+    //   color: "#4f2601"
+    // },
     "2": {
       lat: "29.600436",
       lng: "35.346728",
