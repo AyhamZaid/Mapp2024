@@ -4,7 +4,7 @@ var simplemaps_countrymap_mapdata={
     width: "500", //'700' or 'responsive'
     background_color: "#FFFFFF",
     background_transparent: "yes",
-    border_color: "#ffffff",
+    border_color: "#000",
     
     //State defaults
     state_description: "State description",
@@ -80,32 +80,32 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "Aqaba Academy",
-      url: "https://aqaba.orangecodingacademy.com",
+      url: "https://dev.orangecodingacademy.com/codingacademy/create",
       inactive: "no"
     },
     JOR850: {
       name: "Mafraq",
-      color: "#ff8910",
+      color: "#ccc",
       hover_color: "#4f2601",
       inactive: "YES"
     },
     JOR851: {
       name: "Amman",
-      color: "#ff8910",
+      color: "#ccc",
       hover_color: "#4f2601",
       description: "Amman Academy",
-      url: "https://amman.orangecodingacademy.com",
-      inactive: "no"
+      url: "https://dev.orangecodingacademy.com/codingacademy/create",
+      inactive: "YES"
     },
     JOR852: {
       name: "Tafilah",
-      color: "#ff8910",
+      color: "#ccc",
       hover_color: "#4f2601",
       inactive: "YES"
     },
     JOR853: {
       name: "Ma`an",
-      color: "#ff8910",
+      color: "#ccc",
       hover_color: "#4f2601",
       inactive: "YES"
     },
@@ -114,18 +114,18 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "Irbid Academy",
-      url: "https://irbid.orangecodingacademy.com",
+      url: "https://dev.orangecodingacademy.com/codingacademy/create",
       inactive: "no"
     },
     JOR855: {
       name: "Ajlun",
-      color: "#ff8910",
+      color: "#ccc",
       hover_color: "#4f2601",
       inactive: "YES"
     },
     JOR856: {
       name: "Jarash",
-      color: "#ff8910",
+      color: "#ccc",
       hover_color: "#4f2601",
       inactive: "YES"
     },
@@ -134,18 +134,18 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "Balqa Academy",
-      url: "https://balqa.orangecodingacademy.com",
+      url: "https://dev.orangecodingacademy.com/codingacademy/create",
       inactive: "no"
     },
     JOR858: {
       name: "Madaba",
-      color: "#ff8910",
+      color: "#ccc",
       hover_color: "#4f2601",
       inactive: "YES"
     },
     JOR859: {
       name: "Karak",
-      color: "#ff8910",
+      color: "#ccc",
       hover_color: "#4f2601",
       inactive: "YES"
     },
@@ -154,21 +154,21 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "ZarqaAcademy",
-      url: "https://zarqa.orangecodingacademy.com",
+      url: "https://dev.orangecodingacademy.com/codingacademy/create",
       inactive: "no"
     }
   },
   locations: {
     "0": {
-      lat: "31.75",
-      lng: "35.919",
-      name: "Amman",
-      description: "Amman Academy",
-      color: "#4f2601"
+      // lat: "31.75",
+      // lng: "35.919",
+      // name: "Amman",
+      // description: "Amman Academy",
+      // color: "#4f2601"
     },
     "2": {
-      lat: "29.53579196900029",
-      lng: "35.01241521863857",
+      lat: "29.600436",
+      lng: "35.346728",
       name: "Aqaba",
       color: "#4f2601"
 
@@ -181,17 +181,20 @@ var simplemaps_countrymap_mapdata={
 
     },
     "10": {
-      lat: "32.1066",
-      lng: "35.8299",
+      lat: "32.039629",
+      lng: "35.623889",
       name: "Balqa",
       color: "#4f2601"
 
+
+
     },
     "13": {
-      lat: "32.0266",
-      lng: "36.08516251731025",
+      lat: "31.723987",
+      lng: "36.918792",
       name: "Zarqa",
       color: "#4f2601"
+
 
     }
   },
@@ -201,7 +204,6 @@ var simplemaps_countrymap_mapdata={
       parent_id: "JOR849",
       x: 87.6,
       y: 1016.9,
-      state_url: "https://aqaba.orangecodingacademy.com",
       color: "#fff"
       
     },
@@ -213,16 +215,16 @@ var simplemaps_countrymap_mapdata={
       color: "#fff"
     },
     "2": {
-      name: "Amman",
-      parent_id: "JOR851",
-      x: 299.9,
-      y: 494.2,
-      color: "#fff",
-      state_description:"Hello",
-      url_new_tab: 'yes',
-      state_url: "https://amman.orangecodingacademy.com",
-      lat: "31.95",
-      lng: "35.933333",
+      // name: "Amman",
+      // parent_id: "JOR851",
+      // x: 299.9,
+      // y: 494.2,
+      // color: "#fff",
+      // state_description:"Hello",
+      // url_new_tab: 'yes',
+      // state_url: "https://dev.orangecodingacademy.com/codingacademy/create",
+      // lat: "31.95",
+      // lng: "35.933333",
 
       
     
@@ -248,7 +250,6 @@ var simplemaps_countrymap_mapdata={
       parent_id: "JOR854",
       x: 193.6,
       y: 222.8,
-      state_url: "https://irbid.orangecodingacademy.com",
       color: "#fff"
     },
     "6": {
@@ -270,7 +271,6 @@ var simplemaps_countrymap_mapdata={
       parent_id: "JOR857",
       x: 166.6,
       y: 368.1,
-      state_url: "https://balqa.orangecodingacademy.com",
       color: "#fff"
     },
     "9": {
@@ -292,7 +292,6 @@ var simplemaps_countrymap_mapdata={
       parent_id: "JOR860",
       x: 485.9,
       y: 454.2,
-      state_url: "https://zarqa.orangecodingacademy.com",
       color: "#fff"
     }
   },
