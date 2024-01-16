@@ -80,7 +80,7 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "Aqaba Academy",
-      url: "https://dev.orangecodingacademy.com/codingacademy/create",
+      url: "https://aqaba.orangecodingacademy.com/",
       inactive: "no"
     },
     JOR850: {
@@ -94,7 +94,7 @@ var simplemaps_countrymap_mapdata={
       color: "#ccc",
       hover_color: "#4f2601",
       description: "Amman Academy",
-      url: "https://dev.orangecodingacademy.com/codingacademy/create",
+      // url: "https://dev.orangecodingacademy.com/codingacademy/create",
       inactive: "YES"
     },
     JOR852: {
@@ -114,7 +114,7 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "Irbid Academy",
-      url: "https://dev.orangecodingacademy.com/codingacademy/create",
+      url: "https://irbid.orangecodingacademy.com/",
       inactive: "no"
     },
     JOR855: {
@@ -134,7 +134,7 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "Balqa Academy",
-      url: "https://dev.orangecodingacademy.com/codingacademy/create",
+      url: "https://balqa.orangecodingacademy.com/",
       inactive: "no"
     },
     JOR858: {
@@ -154,7 +154,7 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "ZarqaAcademy",
-      url: "https://dev.orangecodingacademy.com/codingacademy/create",
+      url: "https://zarqa.orangecodingacademy.com/",
       inactive: "no"
     }
   },
