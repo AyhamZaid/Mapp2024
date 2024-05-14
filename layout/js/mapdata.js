@@ -91,11 +91,11 @@ var simplemaps_countrymap_mapdata={
     },
     JOR851: {
       name: "Amman",
-      color: "#ccc",
+      color: "#ff8910",
       hover_color: "#4f2601",
       description: "Amman Academy",
-      // url: "https://dev.orangecodingacademy.com/codingacademy/create",
-      inactive: "YES"
+      url: "https://amman.orangecodingacademy.com/codingacademy/create",
+      inactive: "no"
     },
     JOR852: {
       name: "Tafilah",
@@ -159,13 +159,13 @@ var simplemaps_countrymap_mapdata={
     }
   },
   locations: {
-  // "0": {
-    //   lat: "31.75",
-    //   lng: "35.919",
-    //   name: "Amman",
-    //   description: "Amman Academy",
-    //   color: "#4f2601"
-    // },
+  "0": {
+    lat: "31.55",
+    lng: "35.999",
+      name: "Amman",
+      description: "Amman Academy",
+      color: "#4f2601"
+    },
     "2": {
       lat: "29.600436",
       lng: "35.346728",
@@ -215,16 +215,16 @@ var simplemaps_countrymap_mapdata={
       color: "#fff"
     },
     "2": {
-      // name: "Amman",
-      // parent_id: "JOR851",
-      // x: 299.9,
-      // y: 494.2,
-      // color: "#fff",
-      // state_description:"Hello",
-      // url_new_tab: 'yes',
-      // state_url: "https://dev.orangecodingacademy.com/codingacademy/create",
-      // lat: "31.95",
-      // lng: "35.933333",
+      name: "Amman",
+      parent_id: "JOR851",
+      x: 299.9,
+      y: 494.2,
+      color: "#fff",
+      state_description:"Hello",
+      url_new_tab: 'yes',
+      state_url: "https://amman.orangecodingacademy.com/codingacademy/create",
+      lat: "31.95",
+      lng: "35.933333",
 
       
     
