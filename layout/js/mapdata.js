@@ -94,7 +94,7 @@ var simplemaps_countrymap_mapdata={
       color: "#ff8910",
       hover_color: "#4f2601",
       description: "Amman Academy",
-      url: "https://amman.orangecodingacademy.com/codingacademy/create",
+      url: "https://amman.orangecodingacademy.com/",
       inactive: "no"
     },
     JOR852: {
